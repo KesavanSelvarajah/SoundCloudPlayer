@@ -5,6 +5,20 @@ html, body {
 	min-height: 100%;
 }
 
+.title {
+	text-align: center;
+	text-transform: uppercase;
+	color: rgb(255, 0, 0);
+  }
+  
+.subtitle {
+	text-align: center;
+}
+
+.heart {
+	color: rgb(255, 0, 0);
+}
+
 #soundcloud-player .col {
 	position: fixed;
 	height: 100%;
